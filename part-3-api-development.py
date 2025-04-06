@@ -1,3 +1,9 @@
+## let other to interact and ask if they want to dev such app? name your spec and get the price for your favorite car.
+## give option for every blank
+## explain briefly gradio
+## what do we want ? what is needed to create webapp?
+
+
 import gradio as gr
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
@@ -223,3 +229,8 @@ if __name__ == "__main__":
 
 
     demo.launch(server_port=8080)
+
+
+
+    ## key takaways...
+    
